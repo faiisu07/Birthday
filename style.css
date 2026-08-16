@@ -1023,3 +1023,31 @@ body {
     color: white;
     z-index: 10000000000000000;
 }
+.card2-content {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 25px 30px;
+}
+
+.card2-content h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    font-weight: 400;
+    text-align: left;
+    white-space: normal;
+    overflow-wrap: break-word;
+    margin: 15px 0;
+}
+
+.imageCute2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.imageCute2 img {
+    max-width: 180px;
+    height: auto;
+}
